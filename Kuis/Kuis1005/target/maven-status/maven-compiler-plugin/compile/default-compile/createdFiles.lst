@@ -1,0 +1,9 @@
+com\Kuis1005\controller\nilai1005Controller.class
+com\Kuis1005\repo\cv1005Repo.class
+com\Kuis1005\Kuis1005Application.class
+com\Kuis1005\entity\cv1005.class
+com\Kuis1005\service\cv1005Service.class
+com\Kuis1005\repo\nilai1005Repo.class
+com\Kuis1005\entity\nilai1005.class
+com\Kuis1005\controller\cv1005Controller.class
+com\Kuis1005\service\nilai1005Service.class
